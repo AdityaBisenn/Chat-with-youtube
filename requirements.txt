@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+youtube-transcript-api
+langchain==0.0.320
+langchain-google-genai==0.0.5
+chromadb==0.4.22
